@@ -14,10 +14,10 @@ Open MATLAB in the folder containing the script, then run, e.g., hmjlsg(10) to g
 
 A folder named `./examples/` will be created (if it doesn't exist), and inside it you'll find:
 
-example_1.mat
-example_2.mat
+example_1.mat <br>
+example_2.mat <br>
 ...
-example_n.mat
+example_n_s.mat
 
 <br><br>
 The code is designed to be easily modified. You are encouraged to freely alter the system generation parameters to suit your needs. For instance, you can:
