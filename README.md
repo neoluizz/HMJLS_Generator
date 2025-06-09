@@ -22,7 +22,7 @@ example_ns.mat
 <br><br>
 The code is designed to be easily modified. You are encouraged to freely alter the system generation parameters to suit your needs. For instance, you can:
 
-. Change the range of dimensions for states, inputs, or outputs.
-. Adjust the sparsity or distribution of matrix entries.
-. Modify how the Markov transition matrices P and Q are generated.
+. Change the range of dimensions for states, inputs, or outputs.<br>
+. Adjust the sparsity or distribution of matrix entries.<br>
+. Modify how the Markov transition matrices P and Q are generated.<br>
 . Set different initial distributions or structures for system matrices.
