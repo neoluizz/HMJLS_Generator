@@ -1,5 +1,5 @@
 # HMJLS_Generator
-HMJLS Generator:
+**HMJLS Generator:**
 
 This repository provides a MATLAB function `hmjlsg(ns)` that generates `ns` random instances of Hidden Markov Jump Linear Systems (MJLS) and saves them to disk.
 
