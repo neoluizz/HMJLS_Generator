@@ -3,14 +3,14 @@ HMJLS Generator:
 
 This repository provides a MATLAB function `hmjlsg(n_s)` that generates `n_s` random instances of Hidden Markov Jump Linear Systems (MJLS) and saves them to disk.
 
-
-**Run in MATLAB**
+<br><br>
+**Run in MATLAB:**
 
 Open MATLAB in the folder containing the script, then run, e.g., hmjlsg(10) to generate 10 HMJLS instances.
 
 
-
-**Output**
+<br><br>
+**Output:**
 
 A folder named `./examples/` will be created (if it doesn't exist), and inside it you'll find:
 
@@ -19,7 +19,7 @@ example_2.mat
 ...
 example_n.mat
 
-
+<br><br>
 The code is designed to be easily modified. You are encouraged to freely alter the system generation parameters to suit your needs. For instance, you can:
 
 . Change the range of dimensions for states, inputs, or outputs.
